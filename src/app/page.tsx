@@ -108,6 +108,20 @@ export default function Home() {
           </p>
         </a>
       </div>
+      {/* function MyButton() {
+          return (
+              <button>Saya adalah tombol</button>
+          );
+      }
+
+      export default function MyApp() {
+          return (
+          <div>
+               <h1>Selamat datang di aplikasi saya</h1>
+                <MyButton />
+           </div>
+          );
+      } */}
     </main>
   );
 }
