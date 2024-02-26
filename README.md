@@ -101,3 +101,19 @@ http://localhost:3000 ke http://localhost:3000/mypage
 ## Soal 6
 ![alt text](image-3.png)
 
+## Tugas Praktikum
+Perbedaan Next.js, gatsby, dan remix
+
+- Next.js adalah React-based framework untuk membangun website yang server-side rendered(SSR)
+dan statitically generated (SSG). Salah satu keunggulannya adalah memiliki fitur built-in server-side rendering yang membuat mempercepat saat load page dan meningkatkan SEO.
+
+- Remix adalah framework terbaru untuk membangun modern web applications. REmix juga merupakan cabungan dari fitur-fitur terbaik yaitu server-side rendering dan client-side rendering
+
+- Gatsby adalah static site generator untuk membangun aplikasi web yang cepat dan terukur. Gatsby dapat membantu membangun web yang memiliki performa SEO terbaik. 
+
+Membuat project remix
+![alt text](image-4.png)
+
+Membuat project gatsby
+![alt text](image-5.png)
+
